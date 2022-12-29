@@ -1,4 +1,4 @@
-package com.linkedlist.java;
+package src.com.linkedlist.java;
 
 public class Main {
 

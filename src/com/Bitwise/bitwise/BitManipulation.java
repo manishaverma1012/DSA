@@ -1,4 +1,4 @@
-package com.java.bitwise;
+package src.com.Bitwise.bitwise;
 
 public class BitManipulation {
 

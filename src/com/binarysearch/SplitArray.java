@@ -1,4 +1,4 @@
-package com.binarysearch;
+package src.com.binarysearch;
 
 public class SplitArray {
 

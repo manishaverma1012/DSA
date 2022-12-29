@@ -1,4 +1,4 @@
-package com.array;
+package src.com.array;
 
 import java.util.Stack;
 

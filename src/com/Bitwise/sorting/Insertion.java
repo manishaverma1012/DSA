@@ -1,4 +1,4 @@
-package com.java.sorting;
+package src.com.Bitwise.sorting;
 
 import java.util.Arrays;
 

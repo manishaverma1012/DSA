@@ -1,4 +1,4 @@
-package com.java.sorting;
+package src.com.Bitwise.sorting;
 class MissingNumber {
     public int missingNumber(int[] nums) {
     	int i=0;
