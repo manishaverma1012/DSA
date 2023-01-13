@@ -42,7 +42,7 @@ public class MergeSortInplace {
 			k++;
 		}
 		//if one of the array is not complete
-		//copy the remaining elemen tts
+		//copy the remaining element ts
 		while(i<mid)
 		{
 			mix[k]=arr[i];
